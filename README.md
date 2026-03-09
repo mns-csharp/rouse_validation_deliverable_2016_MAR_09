@@ -1,4 +1,4 @@
-# Rouse Validation ï¿½ SURPASS-Alpha Monte Carlo Dynamics
+# Rouse Validation of SURPASS-Alpha Monte Carlo Dynamics
 ## Deliverable Package
 
 Based on: Kuriata, Gront & Sikorski (2016) CMST 22(4), 179-185
